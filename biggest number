@@ -1,0 +1,21 @@
+#include<stdio.h>
+	#include<conio.h>
+	int main()
+	{
+	int a=19;
+	int b;
+	printf("enter the number b: ");
+	scanf("%d",&b);
+	{
+	if (a>b)
+	printf("a is the biggest number");
+	else
+	printf("b is the biggest number");
+	getch();
+	return 0;
+	}
+	 }
+   
+   OUTPUT :
+   Enter the number b=14
+   a is the biggest number
